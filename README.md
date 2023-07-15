@@ -5,7 +5,7 @@
 </div>
 <h3 align="center">Estudios en Ingeniería de Sistemas e Informática y Desarrollador Web Fullstack</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielfelipeq" alt="danielfelipeq" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielfelipeq" alt="daniel quispe" /></a> </p>
 
 - 🔭 Actualmente trabajando con **React, Nextjs, Nodejs, MongoDB**
 
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielfelipeq&show_icons=true&locale=en&layout=compact" alt="danielfelipeq" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielfelipeq&show_icons=true&locale=en&layout=compact" alt="daniel quispe" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=danielfelipeq&show_icons=true&locale=en" alt="danielfelipeq" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=danielfelipeq&show_icons=true&locale=en" alt="daniel quispe" /></p>
 
